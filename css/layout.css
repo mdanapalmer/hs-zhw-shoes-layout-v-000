@@ -24,8 +24,6 @@
 
 /* Positioning Classes */
 
-span .shoes-grass {
+section .shadow {
   float: left;
-  width: 500px;
-  column-count: 2;
 }
