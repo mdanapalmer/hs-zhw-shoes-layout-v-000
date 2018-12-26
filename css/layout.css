@@ -24,7 +24,7 @@
 
 /* Positioning Classes */
 
-div .column-2 {
+div .columns-2 {
   float: left;
   width: 500px;
   display: inline-block;
