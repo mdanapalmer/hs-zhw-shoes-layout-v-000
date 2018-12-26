@@ -24,7 +24,7 @@
 
 /* Positioning Classes */
 
-div .columns-2 {
+#span .shoes-grass {
   float: left;
   width: 500px;
   display: table-cell;
