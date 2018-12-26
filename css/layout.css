@@ -26,5 +26,6 @@
 
 section .shadow-grass {
   float: left;
+  width: 760px;
+  display: inline-block;
 }
-
