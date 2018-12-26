@@ -27,6 +27,6 @@
 span .shoes-grass {
   float: left;
   width: 500px;
-  display: inline;
+  display: block;
   column-count: 2;
 }
