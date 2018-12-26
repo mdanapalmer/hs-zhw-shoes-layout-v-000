@@ -27,6 +27,6 @@
 div .columns-2 {
   float: left;
   width: 500px;
-  display: inline-block;
+  display: table-column;
   column-count: 2;
 }
