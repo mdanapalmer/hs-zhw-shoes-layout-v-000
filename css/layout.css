@@ -29,3 +29,9 @@ section .shadow-grass {
   width: 760px;
   display: inline-block;
 }
+
+span .shadow-article {
+  float: right;
+  width: 250px;
+  display: inline-block;
+}
