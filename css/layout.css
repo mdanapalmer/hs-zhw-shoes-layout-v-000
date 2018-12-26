@@ -24,9 +24,9 @@
 
 /* Positioning Classes */
 
-.wrapper #span .shoes-grass {
+span .shoes-grass {
   float: left;
   width: 500px;
-  display: table-cell;
+  display: inline;
   column-count: 2;
 }
